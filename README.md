@@ -8,6 +8,6 @@ Description Of Files:
 
 heart_v2.py => For Run ===> python heart_v2.py
 
-Required Packages for python ===> turtle / math
+Required Packages For python ===> turtle / math
 
 turtle ==> To install => pip install turtle
