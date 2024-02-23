@@ -10,6 +10,6 @@ heart_v2.py ==> For Run ===> python heart_v2.py
 
 Required Packages For Python ===> turtle / math
 
-turtle ===> To Install => pip install turtle
+turtle ===> To Install ==> pip install turtle
 
 # Finish 
