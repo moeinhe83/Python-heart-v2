@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Description Of Files:
 
-heart_v2.py => For Run ===> python heart_v2.py
+heart_v2.py ==> For Run ===> python heart_v2.py
 
 Required Packages For Python ===> turtle / math
 
